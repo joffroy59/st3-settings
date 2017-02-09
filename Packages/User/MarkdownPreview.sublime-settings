@@ -1,0 +1,5 @@
+{
+	"github_mode": "gfm",
+    "parser": "github",
+    "enabled_parsers": ["github"],
+}    
