@@ -1,8 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"status_bar_brighter": true,
+	"tabs_small": true,
+	"theme": "Afterglow-orange.sublime-theme"
 }

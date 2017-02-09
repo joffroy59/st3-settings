@@ -5,6 +5,7 @@ Backup of my own Sublime Text 3 settings.
 This repo allows you to quickly install a fully configured Sublime Text 3 with:
 
  - the awesome [Package Control](https://github.com/wbond/sublime_package_control) 
+ - the [AfterGlow](https://github.com/YabataDesign/afterglow-theme) theme
 
 Windows
 -------
